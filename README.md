@@ -1,6 +1,8 @@
 # Hi! 👋 Nice to meet you.
 
  i'm Otávio Sedano, i'm studying hard to be Front-End Developer some day 🤓
+ 
+ ### About me
 
 -   :monocle_face: Interested in good **Segments in programming**
 -   :seedling: Currently re-learning **Javascript** and **React**
