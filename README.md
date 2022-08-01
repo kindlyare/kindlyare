@@ -11,13 +11,13 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 
 ### Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![Html](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Css](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 
