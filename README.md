@@ -5,7 +5,7 @@
  ### About me
 
 -   :monocle_face: Interested in good **Segments in programming**
--   :seedling: Currently re-learning **Javascript** and **React**
+-   :seedling: Currently learning **Angular**
 -   :computer: solving problems with time is the **key to learning**, **i love it**
 
 ### Languages
