@@ -5,7 +5,7 @@
  ### About me
 
 -   :monocle_face: Interesting and practing is good **Segments in programming**
--   :seedling: Currently learning **TailWind CSS**
+-   :seedling: Currently learning **Tailwind CSS**
 -   :computer: solving problems with time is the **key to learning**, **i love it**
 
 ### Languages
