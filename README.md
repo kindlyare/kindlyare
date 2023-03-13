@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/Sass-000?&sass&logo=sass)
 ![Firebase](https://img.shields.io/badge/Firebase-000?&logo=firebase)
-![Vite](https://img.shields.io/badge/Vite-000?&logo=vite)
 
 ### Tests
 
@@ -34,3 +33,4 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Vite](https://img.shields.io/badge/Vite-000?&logo=vite)
