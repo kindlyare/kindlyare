@@ -4,8 +4,8 @@
  
  ### About me
 
--   :monocle_face: Interested in good **Segments in programming**
--   :seedling: Currently learning **Angular**
+-   :monocle_face: Interesting and practing is good **Segments in programming**
+-   :seedling: Currently learning **TailWind CSS**
 -   :computer: solving problems with time is the **key to learning**, **i love it**
 
 ### Languages
@@ -18,8 +18,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Html](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Css](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/Sass-000?&sass&logo=sass)
+![Firebase](https://img.shields.io/badge/Firebase-000?&logo=firebase)
+![Vite](https://img.shields.io/badge/Vite-000?&logo=vite)
+
+### Tests
+
+![Jest](https://img.shields.io/badge/Jest-000?&logo=Jest)
+![Testing Library](https://img.shields.io/badge/testing%20library-000?&logo=testing-library)
 
 ### Tools
 
